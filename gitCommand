@@ -2,7 +2,7 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/ShokiRichard/myrepo.git
 git push -u origin master
-
+git push -u origin test
 
 git checkout test
 
